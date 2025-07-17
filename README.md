@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GoofySharma404
-- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning JavaScript C-C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hsharma07711@gmail.com
